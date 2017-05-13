@@ -1,0 +1,68 @@
+ @media (max-width: 1200px){
+.container{
+	width:750px;
+}
+.container img{
+	width:100%;
+}
+
+
+
+}
+
+ @media (max-width: 1040px){
+
+
+.left-side-menu {
+    position: relative;
+    width: 100%;
+}
+
+.container {
+    left: 0;
+    position: relative;
+    width: 100%;
+}
+
+.left-side-menu img {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    width: 100%;
+}
+.left-side-menu a {
+    display: table;
+    margin: 0 auto;
+}
+
+.data-img {
+    float: left;
+    width: 100%;
+}
+
+table {
+    float: left;
+    width: 100%;
+}
+
+tbody {
+    float: left;
+    width: 100%;
+}
+tr {
+    float: left;
+    width: 100%;
+}
+
+td {
+    float: left;
+    width: 100%;
+}
+strong {
+    line-height: 20px;
+}
+
+
+
+
+}
